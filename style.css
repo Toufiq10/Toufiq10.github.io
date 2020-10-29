@@ -114,7 +114,6 @@ background: radial-gradient(lightCyan 40%, skyBlue 10%, lightBlue 30%);
    border: solid 5px lightGreen;
  }
  .about-title {
-   color: white;
-   text-shadow: 5px 5px red;
+   text-shadow: 5px 5px;
  }
 
