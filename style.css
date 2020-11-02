@@ -113,4 +113,7 @@ background: radial-gradient(lightCyan 40%, skyBlue 10%, lightBlue 30%);
    background:cornsilk;
    border: solid 5px lightGreen;
  }
+.promo {
+  font-weight: bold;
+}
 
