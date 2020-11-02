@@ -113,6 +113,10 @@ img {
 }
 .about-content {
 background: radial-gradient(lightCyan 40%, skyBlue 10%, lightBlue 30%);
+width:100%;
+height: 200px;
+padding-top: 5px;
+font-size: 18px;
  }
  #content2 {
    background:cornsilk;
