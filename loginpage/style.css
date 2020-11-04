@@ -1,0 +1,56 @@
+body {
+  margin:0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url(backimage.jpg);
+}
+.log {
+  width: 300px;
+  padding: 40px;
+  position: absolute;
+  top:50%;
+  left:50%;
+transform: translate(-50%,-50%);
+background: #191919;
+text-align: center;
+}
+.log input[type = "text"], .log input[type = "password"], .log input[type = "email"]{
+  border:0;
+  background: none;
+  display:block;
+  margin: 20px auto;
+  text-align: center;
+  border: solid 2px lightGreen;
+  padding: 14px 10px;
+  width: 200px;
+  outline: none;
+  color:white;
+  border-radius: 24px;
+  transition: 0.25s;
+}
+.log h1 {
+  text-align: center;
+  color: white;
+  text-shadow: 3px 3px red;
+  text-transform: uppercase;
+}
+.log input[type="submit"] {
+  border:0;
+  background: none;
+  display:block;
+  margin: 20px auto;
+  text-align: center;
+  border: solid 2px #FDD017;
+  padding: 14px 40px;
+  outline: none;
+  color:white;
+  border-radius: 24px;
+  transition: 0.25s;
+}
+.log input[type="submit"]:hover {
+  background: #6AFB92;
+}
+.log input[type = "text"]:focus, .log input[type = "password"]:focus, .log input[type = "email"]:focus {
+  width:280px;
+  border-color:#E238EC;
+}
