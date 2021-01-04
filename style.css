@@ -103,6 +103,7 @@ nav .links a:hover {
   color: #f1f1f1;
   border: 2px solid #00d2d3;
   border-radius: 10%;
+	transition: all 1s;
   animation: animated-gradient 2s linear infinite;
 }
 .head-pic {
