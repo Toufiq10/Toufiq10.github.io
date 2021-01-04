@@ -85,10 +85,10 @@ nav .links a:hover {
   padding-bottom: 10px;
 }
 .para {
-  font-size: 1.3rem;
+  font-size: 1.4rem;
 }
 .greet {
-  font-size: 20px;
+  font-size: 25px;
   padding-top: 15px;
 }
 .intro {
@@ -130,7 +130,7 @@ nav .links a:hover {
   background: linear-gradient(45deg, #ff4757, #2ed573, #57606f);
 }
 p {
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   padding: 10px;
 }
 .sm{
