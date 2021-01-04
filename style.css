@@ -192,12 +192,12 @@ border-radius: 50%;
   color:#fff;
   cursor: pointer;
   background: #FC427B;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  margin-left: 20px;
-  margin-bottom: 20px;
-  width: 200px;
-  border-radius: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-left: 25px;
+  margin-bottom: 25px;
+  width: 250px;
+  border-radius: 22px;
   border: 2px solid #1e90ff;
 }
 .btn:hover {
