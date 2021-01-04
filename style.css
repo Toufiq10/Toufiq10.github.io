@@ -237,12 +237,15 @@ nav .icon-burger .line {
 
 @media screen and (max-width: 700px) {
   .profile {
-    margin-top: 200px;
+    margin-top: 150px;
     width: 100%;
     margin-left:0;
   }
+	nav .logo {
+		font-size:28px;
+	}
   .intro {
-    margin-top: 200px;
+    margin-top: 150px;
     margin-left: 0;
     display: flex;
     width:100%;
