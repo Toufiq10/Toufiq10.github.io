@@ -129,7 +129,7 @@ nav .links a:hover {
   margin-top: 10px;
   background: linear-gradient(45deg, #ff4757, #2ed573, #57606f);
 }
-p {
+.head p {
   font-size: 22px;
   padding: 10px;
 }
