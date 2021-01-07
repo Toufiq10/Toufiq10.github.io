@@ -132,6 +132,8 @@ nav .links a:hover {
 }
 p {
   font-size: 26px;
+  justify
+  justify-content: space-between;
   padding: 10px;
 }
 .sm{
@@ -208,12 +210,17 @@ border-radius: 50%;
   font-weight: bold;
 }
 .quote {
-  color: #f2f2f2;
-  font-size: 25px;
+  color: #111111;
+  background: #fff;
+  border-radius: 20px;
+  margin-top: 5px;
+  font-size: 30px;
   padding-top: 7px;
+  font-weight: bold;
+  font-family: 'Brush Script MT', cursive;
 }
 .nm {
-  text-shadow: 2px 2px red;
+  color: rgba(0, 0, 0, 1);
 }
 
 #nav-toggle {
