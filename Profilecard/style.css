@@ -16,7 +16,7 @@ body{
 }
 .profile-card{
   width: 400px;
-  border: 2px solid red;;
+  border: 2px solid rgb(0, 245, 208);;
   text-align: center;
   border-radius: 14px;
   overflow: hidden;
@@ -30,7 +30,7 @@ body{
 .pic{
   display: inline-block;
   padding: 8px;
-  background: linear-gradient(180deg, #e040fb, #e66767);
+  background: linear-gradient(180deg, #fb4040, #abe667);
   margin: auto;
   border-radius: 50%;
   background-size: 300% 300%;
