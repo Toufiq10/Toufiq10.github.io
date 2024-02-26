@@ -1,0 +1,29 @@
+body {
+    background-color: cornsilk;
+    padding-inline: 2em;
+}
+li{
+    padding : 3px;
+}
+table, th, td {
+    border: 1px solid;
+    padding: 0.3em;
+}
+
+a {
+    padding-left: 1em;
+}
+h4 {
+    padding-left: 1em;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 0.3em;
+    width: 20%;
+    margin-top: 1.5em;
+}
+.intro {
+    border-style:none;
+    border-top-style: dotted;
+}
